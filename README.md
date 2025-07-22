@@ -23,7 +23,7 @@ This project is a pixel-perfect clone of the award-winning [Refokus](https://www
 
 ## 🚀 Live Demo
 
-*[[Link to your live demo here](https://refokus-05iz.onrender.com/)]*
+*[[Working Demo](https://refokus-05iz.onrender.com/)]*
 
 ---
 
