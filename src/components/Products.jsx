@@ -12,7 +12,7 @@ function Products() {
         "An interactive learning game that can educate and entertain you on the basics of web layouts in Webflow",
       live: true,
       case: false,
-      vid: "src/assets/Videos/layoutland-169.webm",
+      vid: "https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/layoutland-169.webm",
     },
     {
       title: "cula",
@@ -20,7 +20,7 @@ function Products() {
         "We immersed ourselves in a 3D world we created to explain how Cula's platform collects data from carbon removal processes and converts them into carbon credit certificates.",
       live: true,
       case: true,
-      vid: "src/assets/Videos/cula-169.webm",
+      vid: "https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/cula-169.webm",
     },
     {
       title: "Umault",
@@ -28,7 +28,7 @@ function Products() {
         "Our collaboration with Umault exemplifies our commitment to marrying design innovation with technical excellence.",
       live: true,
       case: false,
-      vid: "src/assets/Videos/umault-169.webm",
+      vid: "https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/umault-169.webm",
     },
     {
       title: "Chargeflow",
@@ -36,7 +36,7 @@ function Products() {
         "We pushed the limits of creativity with Chargeflow's website redesign, incorporating a staggering amount of 15 Lottie animations and custom graphics.",
       live: true,
       case: true,
-      vid: "src/assets/Videos/chargeflow-169.webm",
+      vid: "https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/chargeflow-169.webm",
     },
     {
       title: "arqitel",
@@ -44,7 +44,7 @@ function Products() {
         "With a continuous 3D animation, we showcase Arqitel approach and show how migration data translates into real estate.",
       live: true,
       case: false,
-      vid: "src/assets/Videos/arqitel-169.webm",
+      vid: "https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/arqitel-169.webm",
     },
   ];
 
